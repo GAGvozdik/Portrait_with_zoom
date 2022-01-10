@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/fenik/Desktop/python/07_Portrait_render/media/videos/2_2_V/1080p60/partial_movie_files/dater/1525627837_644136846_4101073582.mp4'
+file 'file:C:/Users/fenik/Desktop/python/07_Portrait_render/media/videos/2_2_V/1080p60/partial_movie_files/dater/1525627837_2608784899_3569144657.mp4'
+file 'file:C:/Users/fenik/Desktop/python/07_Portrait_render/media/videos/2_2_V/1080p60/partial_movie_files/dater/992695636_1427924154_1936605606.mp4'
+file 'file:C:/Users/fenik/Desktop/python/07_Portrait_render/media/videos/2_2_V/1080p60/partial_movie_files/dater/640356313_3818486933_3393973390.mp4'
+file 'file:C:/Users/fenik/Desktop/python/07_Portrait_render/media/videos/2_2_V/1080p60/partial_movie_files/dater/3260511558_192920820_1104797668.mp4'
